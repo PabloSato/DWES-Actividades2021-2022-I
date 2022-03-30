@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/Volumes/Samsung SSD/Mis Documentos/DAW/Eclipse/DWES - Actividades I/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1307284900.index
+450983334.index
+3311415608.index
+1398447932.index
+2956802478.index
+139817514.index
+2438734736.index

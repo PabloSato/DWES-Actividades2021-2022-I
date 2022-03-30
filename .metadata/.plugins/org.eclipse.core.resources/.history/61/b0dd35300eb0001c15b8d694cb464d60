@@ -1,0 +1,9 @@
+package snippet;
+
+public class Snippet {
+	(default package)
+	controller
+	modelo.beans
+	modelo.daos
+}
+
